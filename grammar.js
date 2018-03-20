@@ -38,6 +38,7 @@ var grammar = {
     "Cashmere",
     "Collared",
     "Fancy",
+    "Silk",
     
   ],
 
@@ -68,6 +69,7 @@ var grammar = {
     "Plant",
     "Tree",
     "Cactus",
+    "Rose",
 
 
   ],
