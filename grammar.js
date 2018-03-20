@@ -17,7 +17,6 @@ var grammar = {
     "Black",
     "Skimpy",
     "Denim",
-    "Baggy",
     "Sparkly",
     "Sleek",
     "Warm",
@@ -27,7 +26,7 @@ var grammar = {
     "Stretchy",
     "Loose",
     "Drapey",
-       "Soft",
+    "Soft",
     "Grey",
     "Snug",
     "Wool",
@@ -36,17 +35,17 @@ var grammar = {
     "Blue",
     "Red",
     "Utility",
+    "Cashmere",
+    "Collared",
+    "Fancy",
     
   ],
 
   designElement: [
     "Waterfall",
-    "Aspidistra",
-    "Skylight",
-    "Awning",
+    "Sky",
     "Birch",
-    "Rockface",
-    "Seaglass",
+    "Glass",
     "Vine",
     "Rocks",
     "Skull",
@@ -68,6 +67,7 @@ var grammar = {
     "Sun",
     "Plant",
     "Tree",
+    "Cactus",
 
 
   ],
