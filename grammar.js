@@ -27,6 +27,15 @@ var grammar = {
     "Stretchy",
     "Loose",
     "Drapey",
+       "Soft",
+    "Grey",
+    "Snug",
+    "Wool",
+    "White",
+    "Green",
+    "Blue",
+    "Red",
+    "Utility",
     
   ],
 
@@ -47,58 +56,27 @@ var grammar = {
     "Cat",
     "Gecko",
     "Stones",
+    "Slate",
+    "Owl",
+    "Fox",
+    "Bird",
+    "Leaf",
+    "Snail",
+    "Whale",
+    "Wave",
+    "Orchid",
+    "Sun",
+    "Plant",
+    "Tree",
 
-
-  ],
-
-  favColour: [
-    "Cerulean",
-    "Black",
-    "Vantablack",
-    "Purple",
-    "Scarlet",
-    "Brick Red",
-    "Yellow",
-    "Navy Blue",
-    "Russet",
-
-  ],
-
-  industrialInfrastructure: [
-    "Airport",
-    "Freight Train",
-    "Power Plant",
-    "Warehouse",
-    "Grain Storage",
-    "Water Tower",
-    "Bus Depot",
-    "Factory",
-    "Storm Drain",
-
-  ],
-
-  unsuitableMaterial: [
-    "Marzipan",
-    "Crepe Paper",
-    "Balsa",
-    "Spelt",
-    "Lycra",
-    "Wax",
-    "Tortilla",
-    "Reconstituted Potato",
-    "Vaseline",
-    "Gouda",
 
   ],
 
   // Rules that use/combine words
 
   origin: [
-    "#clothesAdjective# #designElement#",
-    "#favColour# #industrialInfrastructure#",
-    "#unsuitableMaterial# House",
-    "#favColour# #unsuitableMaterial# Hotel",
-
+    "#clothesAdjective# #designElement# Press",
+   
   ]    
 
 }
