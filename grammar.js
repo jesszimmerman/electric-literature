@@ -1,8 +1,6 @@
 /**
  * @author Yoz & co.
  * 
- * Most of these words and rules come from replies to this thread:
- * https://twitter.com/emilyhughes/status/975896813139124224
  */
 
 var grammar = {
